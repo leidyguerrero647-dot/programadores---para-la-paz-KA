@@ -1,0 +1,29 @@
+mkdir semana 2
+cd semana 2
+preguntas-semana2.txt
+pregunta 1
+respuesta b
+pregunta 2
+respuesta b
+pregunta 3
+respuesta c
+pregunta 4
+respuesta b
+
+reflexion-semana 2.txt
+permite a los desarrolladores interactuar directamente con el sistema operativo esto acelera la ejecucion de herramientas
+de compilacion,permite gestionar el control de vesiones como git,y facilita el control de servidores remotos,haciendo
+el flujo de trabajo mucho mas rapido y automatizable que usar interfaces graficas.la terminal se convierte en el unico 
+medio para administrar el proyecto y permite aprender el uso de la terminal para dominar tecnologia.
+
+
+pwd
+ls
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+
+
+
