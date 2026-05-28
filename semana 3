@@ -1,0 +1,41 @@
+preguntas-semana3.txt
+
+pregunta 1
+respuesta b
+
+pregunta 2
+respuesta b
+
+pregunta 3 
+respuesta b
+
+pregunta 4
+respuesta a
+
+mkdir semana
+cd semana 3
+
+conceptos-git.txt
+
+repositorio:un repositorio es la carpeta o espacio donde git guarda todo de cambios de un proyecto,puede estar en tu 
+computadora,que se llama repositorio o en internet como github dentro se almacenas los archivos y todo lo anterior.
+
+commit:un commit es una instantanea que guarda los cambios que hiciste en los archivos en un momento especifico,cada 
+commit tiene un mensaje que explica que se modifico,y sirve para llevar un registro ordenado del avance del proyecto 
+
+push:es el comando que se usa para enviar los commits que tienes en tu repositorio local al repositorio en internet
+con esto compartes tu trabajo con otros colaboradores y actualizas la version en linea del proyecto.
+
+ reflexion-semana3.txt 
+
+ mantener un registro de cambios con herramientas como git es fundamental en los proyectos de software porque
+ permite llevar un control claro de cada modificacion realizada,gracias a esto el equipo puede saber quien hizo 
+ y por que,lo que facilita la organizacion del trabajo.
+ si se comete un error o se introduce un fallo en el codigo,es posible volver a una version anterior sin perder todo 
+ el avance,esto evita perdidas de tiempo y reduce el riesgo de dañar el proyecto,usar git mejora la trazabilidad 
+ la colaboracion y la recuperacion ante errores,ademas git facilita el trabajo colaborativo,varias personas pueden
+ trabajar en el mismo proyecto al mismo tiempo sin sobrescribir el trabajo de los demas ya que los cambios 
+ se integran de forma ordenada.
+
+
+
